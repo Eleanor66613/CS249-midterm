@@ -1,0 +1,8 @@
+MANIFEST.in
+README.rst
+opster.py
+setup.cfg
+pip-egg-info/opster.egg-info/PKG-INFO
+pip-egg-info/opster.egg-info/SOURCES.txt
+pip-egg-info/opster.egg-info/dependency_links.txt
+pip-egg-info/opster.egg-info/top_level.txt
